@@ -8,7 +8,7 @@ Good articles on Cybersecurity and Business from the world's best Magazines.
 - ### The untold story of the Sony Hack
 	- [Vanityfair](https://www.vanityfair.com/news/2019/10/the-untold-story-of-the-sony-hack)
 
-- ### The Ukranian Hacker who become the FBI;S secret weapon
+- ### The Ukranian Hacker who become the FBI'S secret weapon
 	- [Wired](https://www.wired.com/2016/05/maksym-igor-popov-fbi/)
 
 - ### The Triple Jeopardy of a Chinese Math Prodigy
@@ -27,6 +27,6 @@ Good articles on Cybersecurity and Business from the world's best Magazines.
 - ### Dr. Elon & Mr. Musk: Life Inside Tesla's Production Hell
 	- [Wired](https://www.wired.com/story/elon-musk-tesla-life-inside-gigafactory/)
 
-- ### Three Years of Misery Inside Google, the Happiest
+- ### Three Years of Misery Inside Google, the Happiest company
 	- [Wired](https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/)
 
