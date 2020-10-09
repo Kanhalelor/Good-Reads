@@ -29,4 +29,7 @@ Good articles on Cybersecurity and Business from the world's best Magazines.
 
 - ### Three Years of Misery Inside Google, the Happiest company
 	- [Wired](https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/)
+	
+- ### Did a Chinese Hack Kill Canada’s Greatest Tech Company?
+	- [Bloomberg](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
 
